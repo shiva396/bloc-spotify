@@ -14,6 +14,15 @@ dependencies:
 
   cupertino_icons: ^1.0.6
   flutter_svg:
+  flutter_bloc:
+  hydrated_bloc:
+  path_provider:
+  firebase_core:
+  firebase_auth:
+  get_it:
+  dartz:
+  cloud_firestore:
+  just_audio:
 
 dev_dependencies:
   flutter_test:
